@@ -9,9 +9,9 @@ permalink: /home/---
     </head>
     <body>
         <ul>
-            <li><a href="Home.html">Home</a></li>
+            <li><a href="Home">Home</a></li>
             <li><a class="active">Products</a></li>
-            <li><a href="About.html">About</a></li>
+            <li><a href="About">About</a></li>
         </ul>
         <p>These are our products:</p>
         <img src="Screenshot 2021-12-16 12.06.24 PM.png">
