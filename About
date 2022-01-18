@@ -1,4 +1,7 @@
----  
+---layout: page
+title: "Home"
+permalink: /home/---
+
 <html>
     <head>
         <title>Edwards Jewelry</title>
